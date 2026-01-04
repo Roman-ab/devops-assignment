@@ -1,5 +1,10 @@
 # DevOps Assignment
 
+## Assumptions
+- Sample backend/frontend used for demonstration
+- No actual application code included
+
+
 This repository demonstrates a basic DevOps setup using Docker, Docker Compose, Nginx, and Jenkins.
 
 ## Architecture
@@ -31,3 +36,4 @@ User → Nginx → Frontend
 
 ## Caching (Future Scope)
 - Redis can be added to reduce database load
+
